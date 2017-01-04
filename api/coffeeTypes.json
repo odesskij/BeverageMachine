@@ -1,0 +1,16 @@
+{
+  "types": [
+    {
+      "type": "Regular",
+      "available": true
+    },
+    {
+      "type": "Robust",
+      "available": true
+    },
+    {
+      "type": "Decaf",
+      "available": true
+    }
+  ]
+}

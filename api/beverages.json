@@ -1,0 +1,24 @@
+{
+  "beverages": [
+    {
+      "name": "Water",
+      "available": true
+    },
+    {
+      "name": "Lemon Soda",
+      "available": false
+    },
+    {
+      "name": "Apple Juice",
+      "available": false
+    },
+    {
+      "name": "Cola",
+      "available": true
+    },
+    {
+      "name": "Coffee",
+      "available": true
+    }
+  ]
+}
